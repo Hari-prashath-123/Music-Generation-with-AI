@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large data/model files
+data.pkl
+*.keras
+*.h5
+
+# Generated music output
+*.mid
+*.midi
+
+# Local IDE configuration
+.vscode/
+.idea/
